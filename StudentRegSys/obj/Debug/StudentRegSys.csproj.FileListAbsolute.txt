@@ -1,0 +1,50 @@
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Form1.resources
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.pdb
+C:\Users\Mohammad Abu Snober\source\repos\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Form1.resources
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\Mohammad Abu Snober\Documents\Summer 2022\VP\apps\New folder\StudentRegSys\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.pdb
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\System.Data.SQLite.xml
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.csproj.AssemblyReference.cache
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Form1.resources
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentR.8827CCC8.Up2Date
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\sufia\OneDrive\الجامعة\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.pdb
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\StudentRegSys.exe
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\StudentRegSys.pdb
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\System.Data.SQLite.xml
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.csproj.AssemblyReference.cache
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Form1.resources
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentR.8827CCC8.Up2Date
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.exe
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.pdb
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Form2.resources

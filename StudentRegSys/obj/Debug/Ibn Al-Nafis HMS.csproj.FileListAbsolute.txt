@@ -1,0 +1,13 @@
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\Ibn Al-Nafis HMS.csproj.AssemblyReference.cache
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Form1.resources
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\Ibn Al-Nafis HMS.csproj.GenerateResource.cache
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\Ibn Al-Nafis HMS.csproj.CoreCompileInputs.cache
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\System.Data.SQLite.xml
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\Ibn Al-N.FFAF1EDE.Up2Date
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\Ibn Al-Nafis HMS.exe.config
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\Ibn Al-Nafis HMS.exe
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\bin\Debug\Ibn Al-Nafis HMS.pdb
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\Ibn Al-Nafis HMS.exe
+D:\Libraries\Desktop\Sufian\00_الجامعة\س5 ف1\البرمجة المرئية مع د محمد أبو صنوبر\Slides\10. Database and connecting SQLite to C#\StudentRegSys\obj\Debug\Ibn Al-Nafis HMS.pdb

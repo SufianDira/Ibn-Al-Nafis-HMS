@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|d:\\libraries\\desktop\\sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\slides\\10. database and connecting sqlite to c#\\studentregsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|solutionrelative:studentregsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\studentregsys\\hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|solutionrelative:studentregsys\\hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\studentregsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|solutionrelative:studentregsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\studentregsys\\hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B673227-6979-4908-8C9E-95377A0E1885}|StudentRegSys\\Ibn Al-Nafis HMS.csproj|solutionrelative:studentregsys\\hms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\Login.cs",
+              "RelativeDocumentMoniker": "StudentRegSys\\Login.cs",
+              "ToolTip": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\Login.cs",
+              "RelativeToolTip": "StudentRegSys\\Login.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:34:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\Login.cs",
+              "RelativeDocumentMoniker": "StudentRegSys\\Login.cs",
+              "ToolTip": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\Login.cs [Design]",
+              "RelativeToolTip": "StudentRegSys\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:34:19.082Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HMS.cs",
+              "DocumentMoniker": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\HMS.cs",
+              "RelativeDocumentMoniker": "StudentRegSys\\HMS.cs",
+              "ToolTip": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\HMS.cs",
+              "RelativeToolTip": "StudentRegSys\\HMS.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAD4v8MAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:33:29.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HMS.cs [Design]",
+              "DocumentMoniker": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\HMS.cs",
+              "RelativeDocumentMoniker": "StudentRegSys\\HMS.cs",
+              "ToolTip": "D:\\Libraries\\Desktop\\Sufian\\00_\u0627\u0644\u062C\u0627\u0645\u0639\u0629\\\u06335 \u06411\\\u0627\u0644\u0628\u0631\u0645\u062C\u0629 \u0627\u0644\u0645\u0631\u0626\u064A\u0629 \u0645\u0639 \u062F \u0645\u062D\u0645\u062F \u0623\u0628\u0648 \u0635\u0646\u0648\u0628\u0631\\Slides\\10. Database and connecting SQLite to C#\\StudentRegSys\\HMS.cs [Design]",
+              "RelativeToolTip": "StudentRegSys\\HMS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:33:13.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
